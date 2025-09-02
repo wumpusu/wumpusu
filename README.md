@@ -4,7 +4,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wumpus)](https://solved.ac/wumpus)
-
+<img src="http://mazandi.herokuapp.com/api?handle=wumpus&theme=cold"/>
 
 <!--
 **wumpusu/wumpusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
