@@ -2,7 +2,9 @@
 
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={wumpus})](https://solved.ac/{wumpus})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wumpus)](https://solved.ac/wumpus)
+
 
 <!--
 **wumpusu/wumpusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
