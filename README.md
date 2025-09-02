@@ -1,4 +1,6 @@
-## Hi there 👋
+## Studying 👋
+
+<img src="C++_logo.svg" alt="C++" width="40"/>
 
 <!--
 **wumpusu/wumpusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
