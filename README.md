@@ -1,13 +1,21 @@
 ## Studying... ⌨️💻 
-Dong-Eui student
+Dong-Eui student / Computer Engineering
 
 
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ## BOj / Solved.ac 👨‍💻 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wumpus)](https://solved.ac/wumpus)
 <img src="http://mazandi.herokuapp.com/api?handle=wumpus&theme=cold"/>
+
+• boj : [wumpus](https://www.acmicpc.net/user/wumpus)
+
+• solved : [wumpus](https://solved.ac/profile/wumpus)
+
+---
 
 <!--
 **wumpusu/wumpusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
